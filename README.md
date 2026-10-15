@@ -56,4 +56,4 @@ Tests include independent raw schedule checks and small exhaustive objective ora
 
 ## Project notes
 
-Built 15 October 2026 with OpenAI Codex assistance. Third-party dependencies retain their own licences; see `THIRD_PARTY.md`. Nothing has been registered, published or submitted from this local prototype.
+Built 15 October 2026 with OpenAI Codex assistance. Third-party dependencies retain their own licences; see `THIRD_PARTY.md`. The [Amazon Developer Hackathon entry](https://devpost.com/software/readyby) was submitted on 15 October 2026, with a [public walkthrough](https://youtu.be/08_ymgPdedE).
